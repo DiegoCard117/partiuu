@@ -8,7 +8,7 @@ Este repositório apresenta o produto e suas decisões de engenharia. O código 
 
 ## Telas
 
-As imagens ficam em [`screenshots/`](screenshots/), com instruções para adicionar as capturas.
+Capturas do app com uma viagem fictícia (pessoas e valores inventados). Como refazer: [instruções](screenshots/README.md).
 
 ### Hoje
 
