@@ -10,25 +10,15 @@ Este repositório apresenta o produto e suas decisões de engenharia. O código 
 
 Capturas do app com uma viagem fictícia (pessoas e valores inventados). Como refazer: [instruções](screenshots/README.md).
 
-### Hoje
+<p>
+  <img src="screenshots/hoje.png" alt="Hoje" width="180">
+  <img src="screenshots/roteiro.png" alt="Roteiro por dia" width="180">
+  <img src="screenshots/gastos.png" alt="Gastos e acerto de contas" width="180">
+  <img src="screenshots/roteiro-sugerido.png" alt="Roteiro sugerido por IA" width="180">
+  <img src="screenshots/mapa.png" alt="Mapa do dia" width="180">
+</p>
 
-![Tela Hoje do Partiuu!](screenshots/hoje.png)
-
-### Roteiro
-
-![Roteiro por dia](screenshots/roteiro.png)
-
-### Gastos
-
-![Gastos e acerto de contas do grupo](screenshots/gastos.png)
-
-### Roteiro sugerido
-
-![Revisão do roteiro sugerido por IA](screenshots/roteiro-sugerido.png)
-
-### Mapa
-
-![Mapa da viagem](screenshots/mapa.png)
+Hoje · Roteiro · Gastos e acerto · Roteiro sugerido por IA · Mapa
 
 ## O que faz
 
