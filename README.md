@@ -88,10 +88,8 @@ Limites de tamanho de texto e de uso são centralizados e conferidos no servidor
 
 ## Repositórios abertos
 
-- [gemini-structured-output](https://github.com/<usuario>/gemini-structured-output): a chamada à IA, extraída como biblioteca.
-- [llm-output-guardrails](https://github.com/<usuario>/llm-output-guardrails): o padrão de validação de saída de IA, aplicado a um domínio de exemplo.
-
-Os links acima são placeholders para os repositórios derivados.
+- [gemini-structured-output](https://github.com/DiegoCard117/gemini-structured-output): a chamada à IA, extraída como biblioteca.
+- [llm-output-guardrails](https://github.com/DiegoCard117/llm-output-guardrails): o padrão de validação de saída de IA, aplicado a um domínio de exemplo.
 
 ## Por que o código é privado
 
